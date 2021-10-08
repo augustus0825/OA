@@ -1,0 +1,1 @@
+The output file name will be called output.txt. To compile the program we will just need to type make in the terminal. To run the program just enter ./main. To remove the file just by entering make clean.
